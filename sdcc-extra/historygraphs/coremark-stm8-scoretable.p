@@ -11,5 +11,7 @@ set arrow from 10233, 6.324 to 10233, 6.024
 set label "3.7.0" at 10233, 6.324
 set arrow from 10582, 6.373 to 10582, 6.073
 set label "3.8.0" at 10582, 6.373
+set arrow from 11214, 6.231 to 11214, 5.931
+set label "3.9.0" at 11214, 6.231
 plot "coremark-stm8-scoretable" using 1:4 title "default", "coremark-stm8-scoretable" using 1:2 title "size", "coremark-stm8-scoretable" using 1:3 title "speed"
 

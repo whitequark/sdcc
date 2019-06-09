@@ -9,5 +9,7 @@ set arrow from 10233, 144 to 10233, 143
 set label "3.7.0" at 10233, 144
 set arrow from 10582, 145 to 10582, 144
 set label "3.8.0" at 10582, 145
+set arrow from 11214, 157 to 11214, 156
+set label "3.9.0" at 11214, 157
 plot "stdcbench-mcs51-scoretable" using 1:4 title "default", "stdcbench-mcs51-scoretable" using 1:2 title "size", "stdcbench-mcs51-scoretable" using 1:3 title "speed"
 

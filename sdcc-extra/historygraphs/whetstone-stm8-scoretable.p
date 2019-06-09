@@ -11,5 +11,7 @@ set arrow from 10233, 66.881 to 10233, 63.881
 set label "3.7.0" at 10233, 66.881
 set arrow from 10582, 67.834 to 10582, 64.834
 set label "3.8.0" at 10582, 67.834
+set arrow from 11214, 116.109 to 11214, 113.109
+set label "3.9.0" at 11214, 116.109
 plot "whetstone-stm8-scoretable" using 1:4 title "default", "whetstone-stm8-scoretable" using 1:2 title "size", "whetstone-stm8-scoretable" using 1:3 title "speed"
 
